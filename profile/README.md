@@ -16,10 +16,10 @@ Remba is a Nigerian startup on a mission to help everyone understand their money
 
 We've open-sourced the core infrastructure we use to build safe, scalable, and observable financial applications.
 
-- **[Beacon](https://github.com/joinremba/beacon)**: The safety check for your environment. Validate env vars, secrets, and config before your app even starts.
-- **[Catalog](https://github.com/joinremba/catalog)**: Production-ready logging. An event-first logging layer built on Pino with built-in PII redaction.
-- **[Gate](https://github.com/joinremba/gate)**: Your API's defensive line. Request validation, structured responses, idempotency, and rate limiting in one package.
-- **[Helm](https://github.com/joinremba/helm)**: AI stack orchestrator for TypeScript — provider failover, circuit breaker, retry, and prompt template management.
+- **[Envoker](https://github.com/joinremba/envoker)**: The safety check for your environment. Validate env vars, secrets, and config before your app even starts.
+- **[Evtlog](https://github.com/joinremba/evtlog)**: Production-ready logging. An event-first logging layer built on Pino with built-in PII redaction.
+- **[Permcheck](https://github.com/joinremba/permcheck)**: Your API's defensive line. Request validation, structured responses, idempotency, and rate limiting in one package.
+
 
 ### 🏗️ Our Stack
 
