@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://rds.brayzenmoney.com/sitemap.xml
